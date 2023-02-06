@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-image: linear-gradient(#e0edec,#177c72, #03110f);
+    background-image: linear-gradient(#e0edec,#177c72, #002B36, #03110f);
 }
 
 #tentacles {
@@ -31,7 +31,7 @@ body {
 }
 
 .stats-card {
-    background-color: #fff5ee;
+    background-color: #e0edec;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -74,6 +74,7 @@ body {
 }
 
 button {
+    background-color: #e0edec;
     font-family: 'Cabin';
     border: none;
     padding: 1%;
